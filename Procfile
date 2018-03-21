@@ -1,1 +1,1 @@
-web: python twentyquestions/manage.py runserver
+web: python src/twentyquestions/manage.py runserver
