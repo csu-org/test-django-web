@@ -1,1 +1,1 @@
-web: gunicorn src/twentyquestions/twentyquestions.wsgi
+web: gunicorn src/twentyquestions/twentyquestions/twentyquestions.wsgi
