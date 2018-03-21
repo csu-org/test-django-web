@@ -1,1 +1,1 @@
-web: python src/twentyquestions/manage.py runserver
+web: gunicorn src/twentyquestions/twentyquestions.wsgi
